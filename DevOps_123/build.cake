@@ -7,8 +7,8 @@ Task("Default")
   .IsDependentOn("Clean")
   .IsDependentOn("Restore")
   .IsDependentOn("Build")
-  .IsDependentOn("UnitTesting")
-  .IsDependentOn("CodeCoverage");
+  .IsDependentOn("UnitTesting");
+//  .IsDependentOn("CodeCoverage");
   
 Task("Clean")  
     .Does(() =>
@@ -37,6 +37,7 @@ Task("UnitTesting")
   NUnit("./NAGP_4183_UnitTesting/bin/Debug/NAGP_4183_UnitTesting.dll");
 });
 
+/*
 Task("CodeCoverage")
     .Does(tool =>
     {
@@ -45,5 +46,6 @@ Task("CodeCoverage")
     new FilePath("./result.xml"),
     new OpenCoverSettings()
 );
+*/
 
 RunTarget(target);
