@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_UnitTesting.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-09-09" time="13:06:46">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8762" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123" machine-name="MOHIT4183" user="mohitkumar05" user-domain="NAGARRO" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_UnitTesting.dll" executed="True" result="Success" success="True" time="0.063" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NAGP_4183_UnitTesting" executed="True" result="Success" success="True" time="0.051" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UnitTest" executed="True" result="Success" success="True" time="0.049" asserts="0">
+            <results>
+              <test-case name="NAGP_4183_UnitTesting.UnitTest.PassTest" executed="True" result="Success" success="True" time="0.030" asserts="1" />
+              <test-case name="NAGP_4183_UnitTesting.UnitTest.SayHello" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
