@@ -7,8 +7,10 @@ Task("Default")
   .IsDependentOn("Clean")
   .IsDependentOn("Restore")
   .IsDependentOn("Build")
-  .IsDependentOn("UnitTesting");
-//  .IsDependentOn("CodeCoverage");
+  .IsDependentOn("UnitTesting")
+//.IsDependentOn("CodeCoverage");
+  .IsDependentOn("CopyFiles")
+  .IsDependentOn("GenerateArtifact");
   
 Task("Clean")  
     .Does(() =>
@@ -47,5 +49,19 @@ Task("CodeCoverage")
     new OpenCoverSettings()
 );
 */
+
+Task("CopyFiles")
+	.Does(() =>
+{
+	CleanDirectory("./output/bin");
+	var files = GetFiles("./**/*.dll") + GetFiles("./**/*.exe");
+	CopyFiles(files, "./output/bin");
+});
+
+Task("GenerateArtifact")
+	.Does(() =>
+{
+	Zip("./output/bin", "./output/build.zip");
+});
 
 RunTarget(target);

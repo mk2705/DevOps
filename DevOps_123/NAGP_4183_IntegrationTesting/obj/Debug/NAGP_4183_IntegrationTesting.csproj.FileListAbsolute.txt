@@ -6,3 +6,11 @@ C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\N
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\FluentValidation.dll
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\FluentValidation.xml
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_IntegrationTesting\obj\Debug\NAGP_4183_IntegrationTesting.csprojResolveAssemblyReference.cache
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\NAGP_4183_IntegrationTesting.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\NAGP_4183_IntegrationTesting.pdb
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\FluentValidation.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\bin\Debug\FluentValidation.xml
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\obj\Debug\NAGP_4183_IntegrationTesting.csprojResolveAssemblyReference.cache
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\obj\Debug\NAGP_4183_IntegrationTesting.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_IntegrationTesting\obj\Debug\NAGP_4183_IntegrationTesting.pdb

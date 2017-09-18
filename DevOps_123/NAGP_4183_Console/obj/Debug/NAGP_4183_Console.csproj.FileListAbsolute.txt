@@ -6,3 +6,11 @@ C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\N
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_Console\bin\Debug\FluentValidation.dll
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_Console\bin\Debug\FluentValidation.xml
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_Console\obj\Debug\NAGP_4183_Console.csprojResolveAssemblyReference.cache
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\bin\Debug\NAGP_4183_Console.exe.config
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\bin\Debug\NAGP_4183_Console.exe
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\bin\Debug\NAGP_4183_Console.pdb
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\bin\Debug\FluentValidation.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\bin\Debug\FluentValidation.xml
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\obj\Debug\NAGP_4183_Console.csprojResolveAssemblyReference.cache
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\obj\Debug\NAGP_4183_Console.exe
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_Console\obj\Debug\NAGP_4183_Console.pdb

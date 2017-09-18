@@ -9,3 +9,14 @@ C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\N
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_Console.pdb
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\nunit.framework.dll
 C:\Users\mohitkumar05.NAGARRO\Documents\Visual Studio 2015\Projects\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\nunit.framework.xml
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_UnitTesting.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_UnitTesting.pdb
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\FluentValidation.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_Console.exe
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\nunit.framework.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\NAGP_4183_Console.pdb
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\FluentValidation.xml
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\bin\Debug\nunit.framework.xml
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\obj\Debug\NAGP_4183_UnitTesting.csprojResolveAssemblyReference.cache
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\obj\Debug\NAGP_4183_UnitTesting.dll
+E:\GitHub\DevOps\DevOps_123\NAGP_4183_UnitTesting\obj\Debug\NAGP_4183_UnitTesting.pdb
