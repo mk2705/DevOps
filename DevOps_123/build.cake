@@ -9,8 +9,7 @@ Task("Default")
   .IsDependentOn("Build")
   .IsDependentOn("UnitTesting")
 //.IsDependentOn("CodeCoverage");
-  .IsDependentOn("CopyFiles")
-  .IsDependentOn("GenerateArtifact");
+  .IsDependentOn("GenerateArtifacts");
   
 Task("Clean")  
     .Does(() =>
@@ -50,17 +49,12 @@ Task("CodeCoverage")
 );
 */
 
-Task("CopyFiles")
+Task("GenerateArtifacts")
 	.Does(() =>
 {
 	CleanDirectory("./output/bin");
 	var files = GetFiles("./**/*.dll") + GetFiles("./**/*.exe");
 	CopyFiles(files, "./output/bin");
-});
-
-Task("GenerateArtifact")
-	.Does(() =>
-{
 	Zip("./output/bin", "./output/build.zip");
 });
 
